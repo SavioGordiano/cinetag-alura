@@ -1,0 +1,13 @@
+.conteiner{
+    padding: .3em;
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.link{
+    margin-left: 1em;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
