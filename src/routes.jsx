@@ -14,7 +14,6 @@ function AppRoutes() {
           <Route index element={<Inicio/>}/>
           <Route path="favoritos" element={<Favoritos/>}/> 
           <Route path="video/:id" element={<Player/>}/>
-          <Route path="dasd" element={<Favoritos/>}/>
           <Route path="*" element={<NaoEncontrada/>} />
         </Route>
       </Routes>
